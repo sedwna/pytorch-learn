@@ -37,7 +37,7 @@ PyTorch is a popular open-source machine learning library that provides a flexib
 ### Running the Notebook in Google Colab
 1. **Open the Notebook**:
    - Click the **Open in Colab** button below:  
-     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/your-notebook-name.ipynb)
+     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sedwna/pytorch-learn/blob/main/src/main_pytorch.ipynb)
    - Alternatively, you can upload the notebook to your Google Drive and open it in Colab.
 
 2. **Run the Notebook**:
