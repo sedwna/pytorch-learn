@@ -1,7 +1,3 @@
-If your code is in a **Google Colab Notebook**, the `README.md` should reflect that and provide instructions for running the notebook directly in Colab. Here's an updated version of the `README.md` tailored for a Google Colab environment:
-
----
-
 # PyTorch Tensor Operations in Google Colab
 
 This repository contains a **Google Colab Notebook** demonstrating various tensor operations using PyTorch. It covers the creation of tensors, manipulation, indexing, slicing, and basic mathematical operations. The notebook also includes examples of converting tensors to NumPy arrays and saving/loading tensors.
